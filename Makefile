@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 31
-EXTRAVERSION =_Darkside_Apprentice
+EXTRAVERSION =_DarkInfamous_
 NAME = N8013.Jamison904.Kernel
 
 # *DOCUMENTATION*
